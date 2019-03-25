@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  health: MyString
+  level: MyString
+  attack: MyString
+  defence: MyString
+  speed: MyString
+
+two:
+  name: MyString
+  health: MyString
+  level: MyString
+  attack: MyString
+  defence: MyString
+  speed: MyString
