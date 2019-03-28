@@ -36,6 +36,7 @@ ActiveRecord::Schema.define(version: 2019_03_25_232716) do
   create_table "heros", force: :cascade do |t|
     t.string "name"
     t.integer "health"
+    t.integer "maxHealth"
     t.integer "level"
     t.integer "progress"
     t.integer "attack"
