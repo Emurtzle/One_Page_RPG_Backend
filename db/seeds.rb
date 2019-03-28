@@ -1,4 +1,4 @@
-hero = Hero.create(name: "Evangeline", health: 25, maxHealth: 25,level: 1, progress: 0, attack: 3, defence: 2)
+hero = Hero.create(name: "Evangeline", health: 25, maxHealth: 25,level: 1, progress: 0, attack: 3, defence: 2, speed: 5)
 
 jim = Blockhead.create(name: Faker::Superhero.name, health: 6, level: 1, attack: 1, defence: 1, speed: 1)
 dim = Blockhead.create(name: Faker::Superhero.name, health: 10, level: 2, attack: 2, defence: 1, speed: 2)
