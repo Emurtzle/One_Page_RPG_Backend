@@ -9,7 +9,6 @@ class CreateHeros < ActiveRecord::Migration[5.2]
       t.integer :attack
       t.integer :defence
       t.integer :speed
-
       t.timestamps
     end
   end
