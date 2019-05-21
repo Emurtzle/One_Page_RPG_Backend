@@ -1,24 +1,5 @@
-# README
+This is the backend for our single-page 2D Javascript-based game. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Please clone & download this repo, as well as the repo for the frontend [found here!](https://github.com/Emurtzle/One_Page_RPG_Frontend) After downloading, please run bundle install and then begin your rails server with the terminal command "rails s". Then follow the instructions on the frontend to get the game running!
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+No time for all that? Please check out our [demo video](https://youtu.be/KkO_6orX0ow) to get the gist of it :)
